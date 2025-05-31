@@ -1,8 +1,8 @@
 {
-    "serverAddress": "SAP",
+    "serverAddress": "SAP.gov",
     "serverName": "Special Access Program Intranet",
     "iconName": "deltagreen.jpg",
-    "terminalID": "Special Access Program",
+    "terminalID": "sap",
     "defaultUser": {
         "userId": "user",
         "password": "",
