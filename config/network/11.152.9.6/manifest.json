@@ -1,8 +1,8 @@
 {
-    "serverAddress": "11.152.9.6",
-    "serverName": "Delta Green Intranet",
+    "serverAddress": "Special Access Program",
+    "serverName": "Special Access Program Intranet",
     "iconName": "deltagreen.jpg",
-    "terminalID": "11.152.9.6",
+    "terminalID": "Special Access Program",
     "defaultUser": {
         "userId": "user",
         "password": "",
